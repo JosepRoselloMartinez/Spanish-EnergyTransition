@@ -1,0 +1,66 @@
+source,target,realValue,layerID,layerColor,layerUnit
+Diesel,Mob public,0.24,Diesel,#D3D3D3,TWh
+SLF,Diesel,0.24,SLF,#D3D3D3,TWh
+Imp.Diesel,Diesel,0.24,Diesel,#D3D3D3,TWh
+Gas,Mob public,47.65,NG,#FFD700,TWh
+Gas,Mob public,0.14,NG,#FFD700,TWh
+Gas,Freight,6.00,NG,#FFD700,TWh
+Gas,H2 prod,69.24,NG,#FFD700,TWh
+H2 prod,H2,50.74,H2,#FF00FF,TWh
+Gas,Boilers,24.78,NG,#FFD700,TWh
+Electricity,Elec,1.15,Electricity,#00BFFF,TWh
+Wind,Elec,468.20,Wind,#27AE34,TWh
+Hydro River,Elec,8.23,Hydro River,#0000FF,TWh
+Hydro Dams,Elec,19.82,Hydro Dam,#00CED1,TWh
+Solar PV,Elec,7.97,Solar,#FFFF00,TWh
+Solar CSP,Dec. Sto,5.26,Solar,#FFFF00,TWh
+Solar CSP,Heat LT Dec,6.55,Solar,#FFFF00,TWh
+Geothermal,DHN,29.57,Geothermal,#FF0000,TWh
+Waste,Boilers,38.20,Waste,#808000,TWh
+Wood,Biofuels,0.37,Wood,#CD853F,TWh
+Wood,Boilers,59.33,Wood,#CD853F,TWh
+Wet biomass,Biomethanation,158.70,Wood,#CD853F,TWh
+Biomethanation,Gas,148.23,NG,#FFD700,TWh
+Elec,Mob public,11.27,Electricity,#00BFFF,TWh
+Elec,Freight,6.30,Electricity,#00BFFF,TWh
+Elec,Exp & Loss,58.09,Electricity,#00BFFF,TWh
+Elec,Elec demand,182.21,Electricity,#00BFFF,TWh
+Elec,Storage,23.66,Electricity,#00BFFF,TWh
+Storage,Elec demand,20.49,Electricity,#00BFFF,TWh
+Elec,HPs,29.66,Electricity,#00BFFF,TWh
+Elec,Electrolysis,87.62,Electricity,#00BFFF,TWh
+Electrolysis,H2 sto.,17.25,H2,#FF00FF,TWh
+H2 sto.,H2,14.91,H2,#FF00FF,TWh
+Electrolysis,H2,59.56,H2,#FF00FF,TWh
+Elec,Heat LT Dec,63.45,Electricity,#00BFFF,TWh
+Elec,Dec. Sto,1.58,Electricity,#00BFFF,TWh
+Elec,Heat HT,25.33,Electricity,#00BFFF,TWh
+Elec,Cold,12.17,Electricity,#00BFFF,TWh
+Elec,Chiller,4.06,Electricity,#00BFFF,TWh
+Elec,Storage,23.66,Electricity,#00BFFF,TWh
+Storage,Elec demand,20.49,Electricity,#00BFFF,TWh
+Storage,Loss,3.17,Electricity,#00BFFF,TWh
+Cold,Cold Storage,28.90,Cold,#00CED1,TWh
+Cold Storage,Space Cooling,25.47,Cold,#00CED1,TWh
+Cold,Space Cooling,46.53,Cold,#00CED1,TWh
+Chiller,Process Cooling,28.00,Cold,#00CED1,TWh
+H2,Mob priv,61.14,H2,#FF00FF,TWh
+H2,Freight,62.04,H2,#FF00FF,TWh
+Gas,SNG sto.,27.23,NG,#FFD700,TWh
+SNG sto.,Gas,26.69,NG,#FFD700,TWh
+HPs,Heat LT Dec,51.95,Heat LT,#FA8072,TWh
+HPs,DHN,30.51,Heat LT,#FA8072,TWh
+HPs,Dec. Sto,14.15,Heat LT,#FA8072,TWh
+Biofuels,Elec,0.01,Electricity,#00BFFF,TWh
+Biofuels,SLF,0.24,SLF,#808080,TWh
+Biofuels,Boilers,0.00,Oil,#8B008B,TWh
+Boilers,Dec. Sto,3.04,Heat LT,#FA8072,TWh
+Boilers,Heat LT Dec,19.26,Heat LT,#FA8072,TWh
+Boilers,DHN,16.19,Heat LT,#FA8072,TWh
+Boilers,Heat HT,66.43,Heat HT,#DC143C,TWh
+Dec. Sto,Heat LT Dec,25.84,Heat LT,#FA8072,TWh
+Dec. Sto,Heat LT Dec,5.26,Heat LT,#FA8072,TWh
+DHN,Heat LT DHN,53.57,Heat LT,#FA8072,TWh
+DHN,Loss DHN,5.34,Heat LT,#FA8072,TWh
+DHN,DHN Sto,17.36,Heat LT,#FA8072,TWh
+DHN Sto,Heat LT DHN,16.44,Heat LT,#FA8072,TWh
